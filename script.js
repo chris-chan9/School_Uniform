@@ -8,7 +8,6 @@
 
   var STORAGE_KEY = "uniformSystemData";
 
-  // ---------- 1. Default products ----------
   var DEFAULT_PRODUCTS = [
     { id: 1, name: "School Uniform",   price: 12, stock: 30, sizes: ["S", "M", "L", "XL"] },
     { id: 2, name: "School Pants",     price: 18, stock: 25, sizes: ["S", "M", "L", "XL"] },
